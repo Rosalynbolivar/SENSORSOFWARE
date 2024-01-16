@@ -1,0 +1,2 @@
+# SENSORSOFWARE
+Temperatura/humedad
